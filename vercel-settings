@@ -1,0 +1,5 @@
+Framework Preset: Next.js
+Build Command: next build
+Output Directory: .next
+Install Command: npm install
+Development Command: next dev

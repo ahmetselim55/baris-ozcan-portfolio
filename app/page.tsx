@@ -1,9 +1,9 @@
-import BarisOzcanPortfolio from "@/components/BarisOzcanPortfolio";
-
 export default function Home() {
-  return <BarisOzcanPortfolio />;
+  return (
+    <div>
+      <h1>Test Page</h1>
+      <p>Bu sayfa çalışıyor mu?</p>
+    </div>
+  );
 }
-
-
-
 
